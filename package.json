@@ -1,0 +1,21 @@
+{
+	"main": "build/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.0.31",
+		"framer": "^0.8.1"
+	},
+	"peerDependencies": {
+		"framer": "^0.8.1",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"framer": {
+		"id": "6edb2ad2-bd1f-435b-bf38-ee4c64b78be8"
+	},
+	"author": "te te",
+	"dependencies": {
+		"ruucm-util": "^0.12.0",
+		"styled-components": "^4.0.2"
+	}
+}
